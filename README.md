@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DecodTEd
 - 👀 I’m interested in ...Becoming a Software Developer
 - 🌱 I’m currently learning ...HTML, CSS, Javascript, React
-- 💞️ I’m looking to collaborate on ...Projects with other front-end developers 
+    - 💞️ I’m looking to collaborate on ...Projects with other Developers 
 - 📫 How to reach me ...Via Insta, Facebook, or Email
 - 😄 Pronouns: ...He/Him 
 - ⚡ Fun fact: ...Before pursing becoming a Software Developer, before I was a traveling dancer trying to make it mainstream 
